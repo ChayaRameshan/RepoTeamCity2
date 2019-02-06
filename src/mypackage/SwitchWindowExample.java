@@ -54,7 +54,7 @@ public class SwitchWindowExample {
 	driver.switchTo().window(parent);
 	
 	System.out.println("Back to parent window after closing child windows");
-	//Line added via git
+	//Line added via git for maven project
 	}
 
 }
